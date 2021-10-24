@@ -16,3 +16,11 @@
 * 克服懒惰
 * 多动手动脑
 
+我学过的编程有HTML、css、javascript,js忘得差不多了
+```javascript
+var a=1,
+b=2;
+var c=a+b;
+console(c);
+```
+
